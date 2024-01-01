@@ -1,4 +1,4 @@
-# shape2path
+# @marmooo/shape2path
 
 Convert SVG basic shape (rect, circle, ellipse, line, polyline, polygon) to
 path.
@@ -6,7 +6,7 @@ path.
 ## Usage
 
 ```
-import { shape2path } from "shape2path";
+import { shape2path } from "@marmooo/shape2path";
 
 // browser
 function createPathRemote(node) {
