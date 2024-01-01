@@ -60,9 +60,10 @@ to
 
 MIT
 
-## Attribution
+## References
 
-- [svgpath](https://github.com/fontello/svgpath) is licensed under the MIT
-- [convertPath](https://github.com/convertSvg/convertPath) is licensed under the
-  MIT
+- [svgo]("https://github.com/svg/svgo)
+- [convertPath](https://github.com/convertSvg/convertPath)
+- [SVGPathConverter](https://github.com/Waest/SVGPathConverter)
+- [svg-flatten](https://github.com/stadline/svg-flatten)
 - [SVG の \<circle\> を \<path\> で描く](https://tyru.github.io/svg-circle-misc-algorithm/)
