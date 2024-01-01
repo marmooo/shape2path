@@ -10,7 +10,7 @@ await build({
   },
   package: {
     name: "@marmooo/shape2path",
-    version: "0.0.1",
+    version: "0.0.2",
     description: "Convert SVG basic shape (rect, circle, ellipse, line, polyline, polygon) to path.",
     license: "MIT",
     main: "mod.js",
