@@ -62,7 +62,7 @@ MIT
 
 ## References
 
-- [svgo]("https://github.com/svg/svgo)
+- [svgo](https://github.com/svg/svgo)
 - [convertPath](https://github.com/convertSvg/convertPath)
 - [SVGPathConverter](https://github.com/Waest/SVGPathConverter)
 - [svg-flatten](https://github.com/stadline/svg-flatten)
